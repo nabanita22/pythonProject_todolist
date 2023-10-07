@@ -1,4 +1,4 @@
-FILEPATH = "C:\\Users\\naban\\PycharmProjects\\pythonProject_todolist\\todo.txt"
+FILEPATH = "todo.txt"
 
 
 def get_todos(filepath=FILEPATH):
